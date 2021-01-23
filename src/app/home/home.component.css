@@ -1,0 +1,11 @@
+.my-card {
+    padding-top: 2%;
+    width: 100%;
+    text-align: center;
+    margin: 0 30%;
+    width: 50%;
+    display: inline-block;
+    background: black;
+    color: white;
+    border: 1px solid lightgray;
+}
